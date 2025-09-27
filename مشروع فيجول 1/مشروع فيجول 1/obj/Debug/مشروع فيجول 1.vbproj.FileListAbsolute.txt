@@ -1,0 +1,15 @@
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\bin\Debug\مشروع فيجول 1.exe.config
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\bin\Debug\مشروع فيجول 1.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\bin\Debug\مشروع فيجول 1.pdb
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\bin\Debug\مشروع فيجول 1.xml
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع فيجول 1.vbprojResolveAssemblyReference.cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع_فيجول_1.Form1.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع_فيجول_1.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع فيجول 1.vbproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع فيجول 1.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع فيجول 1.xml
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع فيجول 1.pdb
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 1\مشروع فيجول 1\bin\Debug\مشروع فيجول 1.exe.config
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع فيجول 1.exe
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع فيجول 1.xml
+C:\Users\HP\OneDrive\سطح المكتب\مشروع فيجول 1\مشروع فيجول 1\obj\Debug\مشروع فيجول 1.pdb
